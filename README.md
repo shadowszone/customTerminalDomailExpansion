@@ -1,4 +1,4 @@
-![Alt text](banner.jpeg)
+![Alt text](banner.jpg)
 
 
 # 🧿🌀🌌🧠 customTerminalDomailExpansion
