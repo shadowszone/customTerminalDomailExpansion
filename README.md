@@ -1,4 +1,4 @@
-![Alt text](relative/or/full/image/path.jpeg)
+![Alt text](path.jpeg)
 
 
 # 🧿🌀🌌🧠 customTerminalDomailExpansion
