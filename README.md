@@ -1,3 +1,6 @@
+![Alt text](relative/or/full/image/path.jpg)
+
+
 # 🧿🌀🌌🧠 customTerminalDomailExpansion
 
 This tool adds an animated ASCII banner and optional images to your terminal using `figlet` and `jp2a`.
